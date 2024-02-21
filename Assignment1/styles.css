@@ -1,0 +1,35 @@
+body{
+    background-color: aquamarine;
+    font-size: medium;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#header{
+    margin-bottom: -5px;
+    display: block;
+    text-align: center;
+
+}
+input{
+    display: block;
+    background-color: rgb(125, 255, 125);
+    color: brow;
+    margin: 10px auto;
+}
+
+#submit{
+    background-color: unset;
+    color: unset;
+    color: blueviolet;
+    background-color: gold;
+}
+
+#copyright{
+    font-size: 6.5px;
+}
+
+#ruler{
+    height: 1px;
+    background-color: brown;
+    width: 85%;
+}

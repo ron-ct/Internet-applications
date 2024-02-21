@@ -1,0 +1,13 @@
+1. Query for the submit button and input task field once in the beginning and store those 2 values in the variables:
+-submit
+-newTask
+2. disable Submit button by default. Enable/ disable by setting its disabled attribute to false/true.
+3. Listen for input to be typed into the input field.
+4. Listen for submission of the form.
+5. Find the task the user just submitted.
+6. Create a list Item for the new Task and add the Task to it
+7. add new element to our unordered list.
+8. At the end of the script, add the line return false. This prevents the default submission of the form which involves either
+reloading current page or redirecting to a new one.
+
+9. NOTE: Create HTML elements using the createElement function. Add the elements to the function using the append function.
