@@ -1,0 +1,28 @@
+main{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    align-items: center;
+    color: aliceblue;
+    background: linear-gradient(135deg, rgb(220,215,231), rgb(61,31,130));
+}
+
+#countdown{
+    background: rgba(0, 0, 0, 0.7);
+    padding: 40px 60px;
+    border-radius: 15px;
+    text-align: center;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.3);
+
+}
+#timer{
+    font-size: 1.2rem;
+}
+
+.t-unit{
+    text-transform: capitalize;
+    margin: 10px;
+    display: inline;
+
+}
